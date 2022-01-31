@@ -9,3 +9,16 @@ p {
 .article {
     font-size: 30px;
 }
+#members {
+    font-weight: bold;
+}
+#awards {
+    font-style: italic;
+}
+#style {
+    text-decoration: underline;
+}
+#history {
+    text-align: end;
+    cursor: grab;
+}
