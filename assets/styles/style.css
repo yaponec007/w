@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+    font-size: 40px;
+}
+p {
+   font-size: 0.8rem;
+   text-indent: 1em;
+}
+.article {
+    font-size: 30px;
+}
